@@ -4,7 +4,7 @@
     <services>
         <service>
             <name>NIFI</name>
-            <displayName>NiFi</displayName>
+            <displayName>NiFi-ahmed</displayName>
             <comment>Apache NiFi is an easy to use, powerful, and reliable system to process and distribute data.</comment>
             <version>1.2.0.0</version>
             <components>
@@ -36,7 +36,7 @@
             </components>
             <osSpecifics>
               <osSpecific>
-                <osFamily>redhat6</osFamily>
+                <osFamily>ubuntu14</osFamily>
                 <packages>
                    <!-- <package><name>git</name></package> -->
                 </packages>
